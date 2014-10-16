@@ -1,1 +1,1 @@
-![pic logo](C:\Users\Jeff\Desktop/images/img.GIF "doc logo")
+![pic logo](D:/images/img.GIF "doc logo")
