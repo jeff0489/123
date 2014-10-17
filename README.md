@@ -1,1 +1,1 @@
-![pic logo](https://docs.google.com/file/d/0B3SHeyz6bOrBMnBlMkFhTDF1MDA/edit/img.GIF "doc logo")
+![pic logo](http://googledrive.com/host/0B3SHeyz6bOrBMnBlMkFhTDF1MDA/img.GIF "doc logo")
